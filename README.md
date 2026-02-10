@@ -1,4 +1,4 @@
-## !IMPORTANT! 
+## !IMPORTANT! i TROY_ANTHONY_DUPRE_JR think i found my wallet!
 ### Send function is broken, you will not be able to send/withdraw bitcoin from your wallet until this is fixed. I have also had trouble importing the wallets generated from this tool into other wallet clients. I will be working on getting this fixed. Until then, I do not recommend using this wallet. 
 
 # Anon-Wallet 
